@@ -151,13 +151,8 @@ Housing-Price-Prediction/
 ├── Housing.csv
 ├── Housing_Price_Prediction.ipynb
 ├── summary.docx
-├── plots/
-│   ├── chart1_price_distribution.png
-│   ├── chart2_correlation_heatmap.png
-│   ├── chart3_price_vs_area.png
-│   ├── chart4_furnishing_status_pie.png
-│   ├── chart8_actual_vs_predicted.png
-│   └── chart9_feature_importance.png
+├── plots
+│  
 │
 ├── README.md
 └── requirements.txt
